@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D6DCA8926E3A556005A424A /* DicePlay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D6DCA8826E3A556005A424A /* DicePlay.mp3 */; };
 		9DBAF52426E05A48005B8F2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DBAF52326E05A48005B8F2B /* AppDelegate.swift */; };
 		9DBAF52626E05A48005B8F2B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DBAF52526E05A48005B8F2B /* SceneDelegate.swift */; };
 		9DBAF52826E05A48005B8F2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DBAF52726E05A48005B8F2B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9D6DCA8826E3A556005A424A /* DicePlay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DicePlay.mp3; sourceTree = SOURCE_ROOT; };
 		9DBAF52026E05A48005B8F2B /* DicePlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DicePlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DBAF52326E05A48005B8F2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DBAF52526E05A48005B8F2B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		9DBAF52226E05A48005B8F2B /* DicePlay */ = {
 			isa = PBXGroup;
 			children = (
+				9D6DCA8826E3A556005A424A /* DicePlay.mp3 */,
 				9DBAF52326E05A48005B8F2B /* AppDelegate.swift */,
 				9DBAF52526E05A48005B8F2B /* SceneDelegate.swift */,
 				9DBAF52726E05A48005B8F2B /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DBAF53026E05A4B005B8F2B /* LaunchScreen.storyboard in Resources */,
+				9D6DCA8926E3A556005A424A /* DicePlay.mp3 in Resources */,
 				9DBAF52D26E05A4B005B8F2B /* Assets.xcassets in Resources */,
 				9DBAF52B26E05A48005B8F2B /* Main.storyboard in Resources */,
 			);
